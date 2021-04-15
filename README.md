@@ -15,12 +15,12 @@
 - [x] **Capítulo 4 Aula 2 – Seu primeiro código HTML**
 - [x] **Capítulo 5 Aula 1 – Parágrafos e Quebras**
 - [x] **Capítulo 5 Aula 2 – Símbolos e Emoji no seu site**
-- [ ] **Capítulo 6 Aula 1 – Você tem o direito de usar qualquer imagem no seu site?**
-- [ ] **Capítulo 6 Aula 2 – Quais são os formatos para imagens na Web?**
-- [ ] **Capítulo 6 Aula 3 – O tamanho das imagens importa para um site?**
-- [ ] **Capítulo 6 Aula 4 – A tag img em HTML5**
-- [ ] **Capítulo 6 Aula 5 – Como mudar o favicon de um site**
-- [ ] **Capítulo 7 Aula 1 – Hierarquia de Títulos**
+- [x] **Capítulo 6 Aula 1 – Você tem o direito de usar qualquer imagem no seu site?**
+- [x] **Capítulo 6 Aula 2 – Quais são os formatos para imagens na Web?**
+- [x] **Capítulo 6 Aula 3 – O tamanho das imagens importa para um site?**
+- [x] **Capítulo 6 Aula 4 – A tag img em HTML5**
+- [x] **Capítulo 6 Aula 5 – Como mudar o favicon de um site**
+- [x] **Capítulo 7 Aula 1 – Hierarquia de Títulos**
 - [ ] **Capítulo 8 Aula 1 – Semântica na HTML5 é importante**
 - [ ] **Capítulo 8 Aula 2 – Negrito e Itálico do jeito certo**
 - [ ] **Capítulo 8 Aula 3 – Formatações adicionais em HTML**
