@@ -9,8 +9,8 @@
 - [x] **Capítulo 1 Aula 4 – Como a Internet chega na minha casa?**
 - [x] **Capítulo 2 Aula 1 – Como a Internet funciona?**
 - [x] **Capítulo 2 Aula 2 – O que é domínio e hospedagem?**
-- [ ] **Capítulo 3 Aula 1 – A diferença entre HTML, CSS e JavaScript**
-- [ ] **Capítulo 3 Aula 2 – Front-end, Back-end e Full stack**
+- [x] **Capítulo 3 Aula 1 – A diferença entre HTML, CSS e JavaScript**
+- [x] **Capítulo 3 Aula 2 – Front-end, Back-end e Full stack**
 - [ ] **Capítulo 4 Aula 1 – Instalando todas as ferramentas**
 - [ ] **Capítulo 4 Aula 2 – Seu primeiro código HTML**
 - [ ] **Capítulo 5 Aula 1 – Parágrafos e Quebras**
