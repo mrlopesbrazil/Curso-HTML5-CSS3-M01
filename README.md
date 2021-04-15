@@ -11,8 +11,8 @@
 - [x] **Capítulo 2 Aula 2 – O que é domínio e hospedagem?**
 - [x] **Capítulo 3 Aula 1 – A diferença entre HTML, CSS e JavaScript**
 - [x] **Capítulo 3 Aula 2 – Front-end, Back-end e Full stack**
-- [ ] **Capítulo 4 Aula 1 – Instalando todas as ferramentas**
-- [ ] **Capítulo 4 Aula 2 – Seu primeiro código HTML**
+- [x] **Capítulo 4 Aula 1 – Instalando todas as ferramentas**
+- [x] **Capítulo 4 Aula 2 – Seu primeiro código HTML**
 - [ ] **Capítulo 5 Aula 1 – Parágrafos e Quebras**
 - [ ] **Capítulo 5 Aula 2 – Símbolos e Emoji no seu site**
 - [ ] **Capítulo 6 Aula 1 – Você tem o direito de usar qualquer imagem no seu site?**

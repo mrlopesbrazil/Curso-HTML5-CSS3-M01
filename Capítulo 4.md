@@ -6,11 +6,12 @@ https://www.google.com/intl/pt-BR/chrome/?standalone
 
 https://code.visualstudio.com/
 
-Next, Next, Marcar Add Open, Add Open, Next, Install
+     Next, Next, Marcar Add Open, Add Open, Next, Install
 
-Auto Save, Settings: Word Wrap = on, size = 20, theme, extensões
+    Auto Save, Settings: Word Wrap = on, size = 20, theme, extensões
 
 - **Capítulo 4 Aula 2 – Seu primeiro código HTML**
 
-index.html
-! e Enter
+Criar arquivo index.html
+    
+Digitar ! e Enter
