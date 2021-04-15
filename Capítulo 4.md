@@ -10,6 +10,9 @@ https://code.visualstudio.com/
 
     Auto Save, Settings: Word Wrap = on, size = 20, theme, extensões
 
+https://www.gimp.org/
+
+
 - **Capítulo 4 Aula 2 – Seu primeiro código HTML**
 
 Criar arquivo index.html

@@ -37,7 +37,7 @@
 
         github.com = Domínio  
         
-        .com = TLD, gTLD, ccLD 
+        .com = TLD (gTLD, ccLD) 
 
         gustavoguanabara = Caminho
           
