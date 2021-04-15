@@ -16,6 +16,13 @@ Crtl+shit+p, abb, tag, enter
 
 - [ ] **Capítulo 8 Aula 3 – Formatações adicionais em HTML**
 
-
+mark
+big
+small
+del
+ins
+u
+sup
+sub
 
 - [ ] **Capítulo 8 Aula 4 – Citações e Códigos**
