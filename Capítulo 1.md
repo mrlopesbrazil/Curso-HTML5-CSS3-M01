@@ -1,4 +1,4 @@
-**Capítulo 1 - Anotações**
+# **Capítulo 1 - Anotações**
 
 - **Conteúdo para o Curso de HTML5 e CSS3**
 

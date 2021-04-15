@@ -1,4 +1,4 @@
-**Capítulo 2 - Anotações**
+# **Capítulo 2 - Anotações**
 
 - **Capítulo 2 Aula 1 – Como a Internet funciona?**
 
