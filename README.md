@@ -7,8 +7,8 @@
 - [x] **Capítulo 1 Aula 2 – Será que este curso é para mim?**
 - [x] **Capítulo 1 Aula 3 – Melhores livros para aprender HTML5 e CSS3**
 - [x] **Capítulo 1 Aula 4 – Como a Internet chega na minha casa?**
-- [ ] **Capítulo 2 Aula 1 – Como a Internet funciona?**
-- [ ] **Capítulo 2 Aula 2 – O que é domínio e hospedagem?**
+- [x] **Capítulo 2 Aula 1 – Como a Internet funciona?**
+- [x] **Capítulo 2 Aula 2 – O que é domínio e hospedagem?**
 - [ ] **Capítulo 3 Aula 1 – A diferença entre HTML, CSS e JavaScript**
 - [ ] **Capítulo 3 Aula 2 – Front-end, Back-end e Full stack**
 - [ ] **Capítulo 4 Aula 1 – Instalando todas as ferramentas**
