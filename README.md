@@ -13,8 +13,8 @@
 - [x] **Capítulo 3 Aula 2 – Front-end, Back-end e Full stack**
 - [x] **Capítulo 4 Aula 1 – Instalando todas as ferramentas**
 - [x] **Capítulo 4 Aula 2 – Seu primeiro código HTML**
-- [ ] **Capítulo 5 Aula 1 – Parágrafos e Quebras**
-- [ ] **Capítulo 5 Aula 2 – Símbolos e Emoji no seu site**
+- [x] **Capítulo 5 Aula 1 – Parágrafos e Quebras**
+- [x] **Capítulo 5 Aula 2 – Símbolos e Emoji no seu site**
 - [ ] **Capítulo 6 Aula 1 – Você tem o direito de usar qualquer imagem no seu site?**
 - [ ] **Capítulo 6 Aula 2 – Quais são os formatos para imagens na Web?**
 - [ ] **Capítulo 6 Aula 3 – O tamanho das imagens importa para um site?**
