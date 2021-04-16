@@ -28,8 +28,7 @@ sub
 - [ ] **Capítulo 8 Aula 4 – Citações e Códigos**
 
 code
-shit+tab
-tab
+shit+tab e tab
 q
 bloquote
 abbr
