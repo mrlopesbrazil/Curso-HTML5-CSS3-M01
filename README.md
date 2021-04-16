@@ -1,12 +1,12 @@
 # Curso HTML5 e CSS3 - Módulo 1
  Curso de HTML5 e CSS3 - Módulo 01
 
-- [x] **Conteúdo para o Curso de HTML5 e CSS3**
-- [x] **Capítulo 1 Aula 0 – O que vamos aprender no módulo 01?**
-- [x] **Capítulo 1 Aula 1 – Precisamos fazer um acordo**
-- [x] **Capítulo 1 Aula 2 – Será que este curso é para mim?**
-- [x] **Capítulo 1 Aula 3 – Melhores livros para aprender HTML5 e CSS3**
-- [x] **Capítulo 1 Aula 4 – Como a Internet chega na minha casa?**
+- [ ] **Conteúdo para o Curso de HTML5 e CSS3**
+- [ ] **Capítulo 1 Aula 0 – O que vamos aprender no módulo 01?**
+- [ ] **Capítulo 1 Aula 1 – Precisamos fazer um acordo**
+- [ ] **Capítulo 1 Aula 2 – Será que este curso é para mim?**
+- [ ] **Capítulo 1 Aula 3 – Melhores livros para aprender HTML5 e CSS3**
+- [ ] **Capítulo 1 Aula 4 – Como a Internet chega na minha casa?**
 - [ ] **Capítulo 2 Aula 1 – Como a Internet funciona?**
 - [ ] **Capítulo 2 Aula 2 – O que é domínio e hospedagem?**
 - [ ] **Capítulo 3 Aula 1 – A diferença entre HTML, CSS e JavaScript**
