@@ -28,16 +28,5 @@
 
 - **Capítulo 2 Aula 2 – O que é domínio e hospedagem?**
 
-        Domínio - Nome do seu site - Pago anualmente R$ 30 a 50 - TLDs
-        Hospedagem - Local do seu site - Pago mensalmente - Espaço/Memória/Recurso
 
-        www.github.com/gustavoguanabara = URL (Uniform Resource Location)
-        
-        www = Sub-domínio 
 
-        github.com = Domínio  
-        
-        .com = TLD, gTLD, ccLD 
-
-        gustavoguanabara = Caminho
-          
