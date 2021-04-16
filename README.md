@@ -22,9 +22,9 @@
 - [x] **Capítulo 6 Aula 5 – Como mudar o favicon de um site**
 - [x] **Capítulo 7 Aula 1 – Hierarquia de Títulos**
 - [ ] **Capítulo 8 Aula 1 – Semântica na HTML5 é importante**
-- [ ] **Capítulo 8 Aula 2 – Negrito e Itálico do jeito certo**
-- [ ] **Capítulo 8 Aula 3 – Formatações adicionais em HTML**
-- [ ] **Capítulo 8 Aula 4 – Citações e Códigos**
+- [x] **Capítulo 8 Aula 2 – Negrito e Itálico do jeito certo**
+- [x] **Capítulo 8 Aula 3 – Formatações adicionais em HTML**
+- [x] **Capítulo 8 Aula 4 – Citações e Códigos**
 - [ ] **Capítulo 9 Aula 1 – Listas OL e UL**
 - [ ] **Capítulo 9 Aula 2 – Listas mistas e de definição**
 - [ ] **Capítulo 10 Aula 1 – Links e Âncoras em HTML5**

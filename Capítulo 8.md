@@ -26,3 +26,11 @@ sup
 sub
 
 - [ ] **Capítulo 8 Aula 4 – Citações e Códigos**
+
+code
+shit+tab
+tab
+q
+bloquote
+abbr
+bdo
