@@ -1,4 +1,5 @@
 # Curso HTML5 e CSS3 - Módulo 1
+<<<<<<< HEAD
  Curso de HTML5 e CSS3 - Módulo 01
 
 - [x] **Conteúdo para o Curso de HTML5 e CSS3**
@@ -41,3 +42,6 @@
 - [ ] **Capítulo 12 Aula 1 – Estilos CSS inline**
 - [ ] **Capítulo 12 Aula 2 – Estilos CSS internos**
 - [ ] **Capítulo 12 Aula 3 – Estilos CSS externos**
+=======
+ Curso de HTML5 e CSS3 - Módulo 01
+>>>>>>> parent of 5f1f1ba (v2)
